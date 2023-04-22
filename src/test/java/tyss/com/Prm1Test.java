@@ -1,7 +1,11 @@
 package tyss.com;
 
-public class Prm1 {
-public static void main(String[] args) {
+import org.testng.annotations.Test;
+
+public class Prm1Test {
+	@Test
+	
+public  void main1() {
 	System.out.println("Helllo");
 	System.out.println("Altered");
 
