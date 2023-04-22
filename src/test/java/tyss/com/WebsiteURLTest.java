@@ -17,6 +17,7 @@ public class WebsiteURLTest {
 		driver.get("https://www.amazon.com/");
 		String title=driver.getTitle();
 		System.out.println(title);
+		System.out.println("*************************");
 		String current=driver.getCurrentUrl();
 		System.out.println(current);
 		driver.close();
