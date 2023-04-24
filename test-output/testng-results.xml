@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-22T18:32:40 IST" name="Default suite" finished-at="2023-04-22T18:32:48 IST" duration-ms="7749">
+  <suite started-at="2023-04-24T12:16:42 IST" name="Default suite" finished-at="2023-04-24T12:16:48 IST" duration-ms="6836">
     <groups>
     </groups>
-    <test started-at="2023-04-22T18:32:40 IST" name="Default test" finished-at="2023-04-22T18:32:48 IST" duration-ms="7749">
+    <test started-at="2023-04-24T12:16:42 IST" name="Default test" finished-at="2023-04-24T12:16:48 IST" duration-ms="6836">
       <class name="tyss.com.WebsiteURLTest">
-        <test-method signature="m1()[pri:0, instance:tyss.com.WebsiteURLTest@76b1e9b8]" started-at="2023-04-22T18:32:40 IST" name="m1" finished-at="2023-04-22T18:32:48 IST" duration-ms="7709" status="PASS">
+        <test-method signature="m1()[pri:0, instance:tyss.com.WebsiteURLTest@117159c0]" started-at="2023-04-24T12:16:42 IST" name="m1" finished-at="2023-04-24T12:16:48 IST" duration-ms="6790" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m1 -->

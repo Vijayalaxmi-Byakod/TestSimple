@@ -14,7 +14,8 @@ public class WebsiteURLTest {
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--remote-allow-origins=*");
 		WebDriver driver = new ChromeDriver(options);
-		driver.get("https://www.amazon.com/");
+		String url=System.getProperty("url");
+		driver.get(url);
 		String title=driver.getTitle();
 		System.out.println(title);
 		System.out.println("*************************");
